@@ -7,7 +7,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vyshu15-chowdary &theme=github_dark" width="100%" />
 
 
-<h2 align="center">Hi 👋, I'm Vyshnavi Yendluri 🙀</h2>
+<h2 align="center">Hi , I'm Vyshnavi Yendluri </h2>
 
 ---
 
@@ -20,7 +20,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyshu15-chowdary &show_icons=true&theme=github_dark" height="220px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vyshu15-chowdary&show_icons=true&theme=github_dark" height="220px" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vyshu15-chowdary &theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Vyshu15-chowdary&theme=dark" />
   </a>
 </p>
 
