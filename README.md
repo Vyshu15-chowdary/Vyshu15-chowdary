@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Vyshu15-chowdary&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Vyshu15-chowdary&theme=dark"/>
   </a>
 </p>
 
@@ -58,4 +58,4 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Vyshu15-chowdary&color=Red)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vyshu15-chowdary&color=orange)
